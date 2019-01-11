@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.image-container {
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+img {
+  display: block;
+  margin-bottom: 30px;
+  height: auto;
+  width: 100%;
+  max-width: 600px;
+}
